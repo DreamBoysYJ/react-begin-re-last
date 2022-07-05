@@ -1,0 +1,33 @@
+.container {
+  border-radius: 15px;
+  background-color: white;
+  padding: 15px;
+  display: flex;
+}
+
+.title {
+  color: black;
+  font-weight: 600;
+  font-size: 34px;
+  margin-bottom: 15px;
+}
+
+.explain {
+  margin-left: 15px;
+}
+
+.summary {
+  font-size: 25px;
+  margin-bottom: 15px;
+}
+
+.genres {
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.genre {
+  font-weight: 600;
+  font-size: 28px;
+  margin-left: 15px;
+}
